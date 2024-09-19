@@ -1,2 +1,2 @@
-# KARBS
-Kris's Auto-Rice Bootstrapping Scripts: Installation Scripts for My Arch Linux Meta-Distribution
+# Kris's Auto-Rice Bootstrapping Scripts (KARBS)
+Installation Scripts for My Arch Linux Meta-Distribution based on Luke Smith's Larbs
